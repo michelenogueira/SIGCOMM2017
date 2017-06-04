@@ -81,6 +81,17 @@ The registration is through the [SIGCOMM conference registration](#TBD).
 
 {% include program-online.html type="n2women" %}
 
+## Keynote Speakers
+
+**Anja Feldman**
+
+Since 2006 Prof. Anja Feldmann, Ph.D. is a full professor at the Technische Universität Berlin, Germany. She is a recipient of the Gottfried Wilhelm Leibniz Preis 2011, the highest honor awarded in German research, and the Berliner Wissenschaftspreis 2011. She is a member of the German National Acadamy of Sciences Leopoldina, the BBAW, the supervisory board of SAP AG. In the past she was a member of the scientific board of Inria and and of the technical advisory board of Endace. From 2000 to 2006 she headed the network architectures group first at Saarland University and then at TU München. Before that (1995 to 1999) she was a member of the Networking and Distributed Systems Center at AT&T Labs — Research in Florham Park, New Jersey. Her current research interests include Internet measurement, traffic engineering and traffic characterization, network performance debugging, intrusion detection, network architecture. She has published more than 60 papers and has served on more than 50 program committees, including as Co-Chair of ACM SIGCOMM 2003 and ACM IMC 2011 and as Co-PC-Chair of ACM SIGCOMM 2007 and ACM IMC 2009. 
+
+**Wenjing Lou**
+
+Wenjing Lou is a Fellow of the IEEE and a Professor of Computer Science at Virginia Tech. Her research interests include wireless networks and cyber security. Since August 2014, Prof. Lou has been serving as a program director at the US National Science Foundation (NSF). At NSF, her responsibilities include the Networking Technology and Systems (NeTS) program, a core program of the Computer and Network Systems (CNS) division within the Directorate for Computer & Information Science & Engineering (CISE), and the Secure and Trustworthy Cyberspace (SaTC) program, a cross-cutting security program led by CISE/CNS.
+
+
 #### Sponsored By
 
 <a href="https://google.com" taget="_blank"><img style="width: 20%" align="middle" src="{{ site.baseurl }}/images/workshop-n2women-sponsor-google.png" alt="Google" /></a>
@@ -92,6 +103,21 @@ The registration is through the [SIGCOMM conference registration](#TBD).
 ## Mentoring Program
 
 N2Women will have a mentor/mentee program. We would like to extend mentoring throughout the week for the students who are staying for SIGCOMM. In this case, we are hoping to find mentors who can host mentees with similar research interests during the main SIGCOMM conference and workshops. If you are a SIGCOMM regular attendee and a senior researcher, please consider volunteering as a mentor. If you are interested in helping out, please email one of the mentoring session organizer.
+
+Please, see the list of the confirmed mentors until now:
+
+Jiasi Chen - UCR
+Te-Yuan Huang - Netflix
+James Mickens - Harvard Univ.
+Keith Winstein - Stanford Univ.
+George Porter - UCSD
+Rachit Agarwal - Cornell
+Ethan Katz-bassett - USC/Columbia
+Yashar Ganjali - Toronto Univ.
+Ying Zhang - Facebook
+Jitu Padhye - MSR
+Justine Sherry - CMU
+Phillipa gill - UMASS
 
 ## Call for Posters
 
