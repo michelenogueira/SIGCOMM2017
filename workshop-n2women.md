@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Sixth Networking Networking Women Workshop (N2Women'17): Personal Development Workshop"
+title: "The Sixth Networking Networking Women Workshop (N2Women'17): Professional Development Workshop"
 group: Workshops
 
 dates:
